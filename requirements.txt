@@ -3,6 +3,3 @@ uvicorn
 requests
 colorama
 asyncio
-collections
-random
-string
